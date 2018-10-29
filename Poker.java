@@ -19,6 +19,7 @@ public class Poker
     hand[2] = new Card(Card.Suits.clubs,4);
     hand[3] = new Card(Card.Suits.hearts,2);
     hand[4] = new Card(Card.Suits.spades,2);
+    hand[5] = new Card();
     
     //display the hand
     System.out.println("the hand dealt is: ");
